@@ -1,0 +1,13 @@
+# Ignore the .env file
+.env
+
+# Ignore the notebook-explained folder
+notebook - explained
+
+# Ignore other unnecessary files/folders
+.git
+.readme.md
+.gitignore
+.DS_Store
+*.pyc
+__pycache__
