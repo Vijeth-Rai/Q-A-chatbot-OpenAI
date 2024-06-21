@@ -1,3 +1,12 @@
+# Demo
+Home Page
+![Screenshot 2024-06-21 185717](https://github.com/Vijeth-Rai/QA-chatbot-OpenAI/assets/57294003/914ece58-97ff-4773-9105-fc78c0c8d032)
+
+
+Response for input
+![Screenshot 2024-06-21 185948](https://github.com/Vijeth-Rai/QA-chatbot-OpenAI/assets/57294003/19903cea-53c3-4136-a883-6e95d9d7f527)
+
+
 # Conversational Q&A Chatbot
 
 Welcome to the Q&A Chatbot! This project features a chatbot built with Streamlit and Langchain with OpenAI and HuggingFace APIs, designed to interact with users in a conversational manner. The chatbot is pre-configured to behave like a comedian AI assistant, providing both informative and entertaining responses.
